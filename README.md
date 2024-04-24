@@ -1,6 +1,7 @@
 # Enhanced-Dashboard
 
 🌟 Announcement: Project Completion 🌟
+https://github.com/Roohitabassum/Enhanced-Dashboard/blob/main/BUSINESS_INSIGHT_360%20-%20Copy.pdf
 
 I am thrilled to announce the successful completion of our ambitious Power BI project! 🚀 After dedicated effort and expertise, I have sculpted a comprehensive dashboard that offers a panoramic view of AtliQ Hardware's performance.
 
